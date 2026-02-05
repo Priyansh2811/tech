@@ -1,1 +1,1 @@
-# techt
+# technology
